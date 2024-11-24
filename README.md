@@ -34,3 +34,11 @@ This project focuses on predicting flight ticket prices based on various feature
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/flight-price-prediction.git
+
+Technologies Used
+Python: For data manipulation and visualization.
+Jupyter Notebook: For running the EDA.
+Libraries:
+`pandas` - Data manipulation.
+`numpy` - Numerical operations.
+`seaborn` & `matplotlib` - Data visualization.
